@@ -13,10 +13,10 @@ After download the source code, run below command in project root folder:
 ## Initial DB
 1. Access phpMyAdmin\
 URL: http://localhost:8080/\
-Username: sail\
+Username: root\
 Password: password
-1. Click the database (sehs4517)
-2. Import database from `database/sql/sehs4517.sql`
+1. Create database: `sehs4517`
+2. Import database data from `database/sql/sehs4517.sql`
 
 ## Admin Panel
 URL: http://localhost/admin\
