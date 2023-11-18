@@ -11,14 +11,14 @@ After download the source code, run below command in project root folder:
 4. `./vendor/bin/sail up`
 
 ## Initial DB
-1. Access phpMyAdmin\
-URL: http://localhost:8080/\
-Username: root\
+1. Access phpMyAdmin \
+URL: http://localhost:8080/ \
+Username: root \
 Password: password
 1. Create database: `sehs4517`
 2. Import database data from `database/sql/sehs4517.sql`
 
 ## Admin Panel
-URL: http://localhost/admin\
-Username: admin@admin.com\
+URL: http://localhost/admin \
+Username: admin@admin.com \
 Password: password
