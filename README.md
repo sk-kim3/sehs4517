@@ -15,8 +15,8 @@ After download the source code, run below command in project root folder:
 URL: http://localhost:8080/\
 Username: sail\
 Password: password
-1. Click the database (laravel)
-2. Import database from `database/sql/laravel.sql`
+1. Click the database (sehs4517)
+2. Import database from `database/sql/sehs4517.sql`
 
 ## Admin Panel
 URL: http://localhost/admin\
