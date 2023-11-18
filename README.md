@@ -5,23 +5,20 @@
 
 ## Step to run project
 After download the source code, run below command in project root folder:
-1. npm install
-2. composer install
-3. npm run dev
-4. ./vendor/bin/sail up
+1. `npm install`
+2. `composer install`
+3. `npm run dev`
+4. `./vendor/bin/sail up`
 
 ## Initial DB
-
-1. Access phpMyAdmin
-URL: http://localhost:8080/
-Username: sail
+1. Access phpMyAdmin\
+URL: http://localhost:8080/\
+Username: sail\
 Password: password
-
-2. Click the database (laravel)
-3. Import database
-database/sql/laravel.sql
+1. Click the database (laravel)
+2. Import database from `database/sql/laravel.sql`
 
 ## Admin Panel
-URL: http://localhost/admin
-Username: admin@admin.com
+URL: http://localhost/admin\
+Username: admin@admin.com\
 Password: password
